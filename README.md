@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# Maximilien Ballesteros
 
-You can use the [editor on GitHub](https://github.com/Patacode/curriculum-vitae/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Final-year student in computer science based in Brussels, Belgium_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:maxou.info@gmail.com) / [GitHub](https://github.com/Patacode/)
 
-### Markdown
+## 👨‍💻 Experiences
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Development** _(Sep 2020 - Present)_ <br>
+Basic softwares that enable anyone to streamline common tasks.
+  - Implementing simple GUI to meet a specific need (document parsing, project setup...)
+  - Developing unit tests to avoid bugs
+  - **_Technologies used:_** HTML, CSS, JavaScript, PHP, Python, Java, C/C++...
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Project Analysis** _(Sep 2020 - Jun 2022)_ <br>
+Implementation of UML diagrams from a customer request
+  - Class and Package diagrams (MCD - MTD)
+  - Use case diagrams (MCT)
+  - Sequence diagrams (MTT)
+  - Application of Agile Scrum methodology
+  - **_Technologies used:_** UML
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Computer security** _(Sep 2021 - Jun 2022)_ <br>
+Securing networked applications to ensure confidentiality, integrity and non-repudiation.
+  - Implementing security principles to sheltered transmissions of sensitive informations
+  - Application of PKI (Public Key Infrastructure)
+  - Prevention methods against common web vulnerabilities (OWASP) and cyber attacks
+  - **_Technologies used:_** OpenSSL, TLS, bcrypt, AES...
+<br><br>
 
-- Bulleted
-- List
+**Database architecture** _(Sep 2021 - Jun 2022)_ <br>
+Normalization and creation of relational databases.
+  - Standardization of relationship variables to avoid redundancy
+  - Implementing ADF graphs
+  - Applying ORM and using DBMS to solve consistency problem
+  - **_Technologies used:_** SQL, Oracle, MySQL, SQLite, Django...
+<br><br>
 
-1. Numbered
-2. List
+**Network architecture** _(Sep 2021 - Jun 2022)_ <br>
+Configuration and implementation of network topology.
+  - Subnetting techniques to properly serve a company network
+  - Virtualization of LAN and configuation of switch and router
+  - **_Technologies used:_** Packet Tracer
+<br><br>
 
-**Bold** and _Italic_ and `Code` text
+## 🏆 Accomplishments
 
-[Link](url) and ![Image](src)
-```
+**Game development** _(Sep 2021 - Present)_ <br>
+Small board games that anyone can play with.
+  - [Stratego](https://github.com/Patacode/stratego) built with Qt5 (C++)
+  - [Simon](https://github.com/Patacode/simon) built with JavaFX (Java)
+  - [SameGame](https://github.com/Patacode/same-game) built with JavaFX (Java)
+  - [Pacman](https://github.com/Patacode/pacman) built with JavaScript, HTML & CSS
+  - [see more](https://github.com/Patacode?tab=repositories)
+<br><br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**General software and utility development** _(Sep 2020 - Present)_ <br>
+Simple applications that can be used by anyone.
+  - [Instant messaging](https://github.com/Patacode/instant-messaging) built with Laravel (PHP)
+  - [Sort racing](https://github.com/Patacode/sorting-race) built with JavaFX (Java)
+  - [Stib ride](https://github.com/Patacode/stib-ride) built with JavaFX (Java)
+  - [see more](https://github.com/Patacode?tab=repositories)
+<br><br>
 
-### Jekyll Themes
+## 💬 Languages
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Patacode/curriculum-vitae/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**French**: Native <br>
+**English**: B2 <br>
+**Spanish**: A2 <br>
+**Dutch**: A1
+<br><br>
 
-### Support or Contact
+## 👨‍🎓 Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor of Computer Science** at the university<br>
+[ULB](https://www.ulb.be/) - Brussels, Belgium _(Sep 2019 - Jun 2020)_ <br>
+
+**Bachelor of Computer Management** at the high school<br>
+[ESI](https://www.he2b.be/campus-esi/) - Brussels, Belgium _(Sep 2020 - Present)_
+<br><br>
+
+## 🎯 Skills & Hobbies
+
+**Responsible and versatile**: Ease of adaptation and strong sense of initiative <br>
+**Punctual, meticulous and orderly**: Neat and accurate work <br>
+**Attentive, hardworking and open-minded**: Listening to others and enjoy working in a group <br>
+**Passionate and enthusiastic**: Love programming
+<br><br>
+
+> Love programming, listening to musics and doing sports
