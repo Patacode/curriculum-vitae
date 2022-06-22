@@ -94,7 +94,7 @@ Simple applications that can be used by anyone.
   <dd>Listening to others and enjoy working in a group</dd>
   
   <dt>Passionate and enthusiastic</dt>
-  <dd>Love programming by passion above all</dd>
+  <dd>Curious in everything related to technologies</dd>
 </dl> <br>
 
 > Love programming, listening to musics and doing sports
