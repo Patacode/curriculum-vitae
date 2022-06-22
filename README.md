@@ -81,12 +81,20 @@ Simple applications that can be used by anyone.
 [ESI](https://www.he2b.be/campus-esi/) - Brussels, Belgium _(Sep 2020 - Present)_
 <br><br>
 
-## 🎯 Skills & Hobbies
+## 🎯 Skills
 
-**Responsible and versatile**: Ease of adaptation and strong sense of initiative <br>
-**Punctual, meticulous and orderly**: Neat and accurate work <br>
-**Attentive, hardworking and open-minded**: Listening to others and enjoy working in a group <br>
-**Passionate and enthusiastic**: Love programming
-<br><br>
+<dl>
+  <dt>Responsible and versatile</dt>
+  <dd>Ease of adaptation and strong sense of initiative</dd>
+  
+  <dt>Punctual, meticulous and orderly</dt>
+  <dd>Neat and accurate work</dd>
+  
+  <dt>Attentive, hardworking and open-minded</dt>
+  <dd>Listening to others and enjoy working in a group</dd>
+  
+  <dt>Passionate and enthusiastic</dt>
+  <dd>Love programming by passion above all</dd>
+</dl> <br>
 
 > Love programming, listening to musics and doing sports
